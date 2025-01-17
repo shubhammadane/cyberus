@@ -1,7 +1,3 @@
-![Intro](https://github.com/s-m-quadri/cyberus/assets/88645248/e0067c1d-4f90-4cbd-ac93-1065c900cf1c)
-
-<br/>
-
 # Cyberus - measuring risk
 
 Cyberus is a tool that checks the generic and sentimental legitimacy of a message and provides an approximate idea of the risk based on the dataset on which it has been trained, along with machine learning models for quantitatively predicting the risk.
@@ -15,18 +11,15 @@ Cyberus is a tool that checks the generic and sentimental legitimacy of a messag
 
 `Category:` Safety in e-commerce
 
-`Team Members`
-1. Shreyash Ravindra Kendre
-2. Shaikh Abu Hayyan Muneeb
-3. Syed Minnatullah Quadri
+`Author:` Shubham Madane
 
-`Class:` TY-CSE-B (B1 Batch)
+`Class:` M. Tech CSE FY
 
-`Course:` Machine Learning
+`Course:` Mini Project
 
-`Date:` May 2023
+`Date:` January 2025
 
-`Guided by:` Dr. Smita S. Ponde
+`Guided by:` Prof. S. G. Shikalpure
 
 <br/>
 
